@@ -9,4 +9,4 @@ Simple script which is music play on terminal, and stream using youtube links. (
 why use this? well it's lighter than streaming music from your favorite browser.
 
 and don't forget to run:
-`sudo ln -s ~/.config/musicply/music /usr/local/bin/music`
+`sudo ln -s ~/path/to/your/script /usr/local/bin/music`
